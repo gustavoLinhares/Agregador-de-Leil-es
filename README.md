@@ -1,6 +1,7 @@
 # Agregador-de-Leilões
 Agregador de Leilões de Veículos e Imóveis
-Sites de leiloeiros são arcaicos, feios e não padronizados. Investidores perdem muito tempo entrando site por site.
+Sites de leiloeiros são arcaicos, feios e não padronizados. 
+Usuários perdem muito tempo entrando site por site.
 
 A Dor: Encontrar oportunidades (carros ou casas abaixo do preço) exige visitar sites diferentes diariamente e gasta muito tempo em processos manuais.
 
